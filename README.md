@@ -23,13 +23,13 @@ I recommend performing a test send before applying it to email your clients.
 
 Usage Requirements:
 
-Outlook must be installed and logged in with the email account that will be used to send the emails.
+- Outlook must be installed and logged in with the email account that will be used to send the emails.
 
-The invoices to be sent must be correctly named in the following format: "CLIENT_'InvoiceNumber'", matching the format filled in the table.
+- The invoices to be sent must be correctly named in the following format: "CLIENT_'InvoiceNumber'", matching the format filled in the table.
 
-All invoices must be in PDF format and located in the same folder as the spreadsheet.
+- All invoices must be in PDF format and located in the same folder as the spreadsheet.
 
-All data filled in the XLSM file must be within the table for the VBA to function properly.
+- All data filled in the XLSM file must be within the table for the VBA to function properly.
 
 **How to Use VBA**
 
