@@ -16,7 +16,7 @@ ap√≥s cumprir os requisitos acima, para executar o vba aperte alt+f11, abra o m√
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-# VBA_DISPARO_NFS -EN-US
+# VBA_DISPARO_NFS - EN-US
 Massive email sending with invoices to clients. 
 This VBA was developed and applied for sending different invoices and clients. 
 I recommend performing a test send before applying it to email your clients.
