@@ -11,6 +11,7 @@ Requisitos de uso:
 - Todos os dados preenchidos no xlsm deve estar dentro da tabela para que o vba funcione.
 
 **Como usar o VBA**
+
 após cumprir os requisitos acima, para executar o vba aperte alt+f11, abra o módulo macro e verifique se o corpo do e-mail está preenchido adequadamente e execute o código.
 
 ---------------------------------------------------------------------------------------------------------------------------------
